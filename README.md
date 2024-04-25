@@ -1,6 +1,6 @@
 ## Memory Match
 
-A memory match game created in MATLAB that uses text or images, depending on the difficulty for NEUR 3690: Programming and Statistics. You can also use "cheat codes" to advance the level or stage.
+A memory match game for NEUR 3690: Programming and Statistics created in MATLAB that uses text or images, depending on the difficulty. You can also use "cheat codes" to advance the level or stage.
 
 ## Perfect Game
 <p align="center">
