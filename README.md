@@ -14,5 +14,5 @@ A memory match game for NEUR 3690: Programming and Statistics created in MATLAB 
 
 ## Cheating
 <p align="center">
-    <img src="asset/perfect_game.gif" alt="A demonstration of cheating using cheat codes" width="100%"/>
+    <img src="asset/cheating.gif" alt="A demonstration of cheating using cheat codes" width="100%"/>
 </p>
